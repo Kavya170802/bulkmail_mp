@@ -1,1 +1,1 @@
-# bulkmail_mp
+# bulkemailing_miniproject
